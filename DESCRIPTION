@@ -1,0 +1,10 @@
+Package: MinSidsteTid
+Type: Package
+Title: Tid tilbage af phd
+Version: 0.1.0
+Author: Thomas Maltesen
+Maintainer: Thomas Maltesen <mcl868@alumni.ku.dk>
+Description: Tid tilbage af phd.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
