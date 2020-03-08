@@ -1,6 +1,6 @@
-# MinSidsteTid
+# TidTilbage
 
 ```markdown
 install.packages("devtools")
-devtools::install_github("mcl868/MinSidsteTid")
+devtools::install_github("mcl868/TidTilbage")
 ```
